@@ -1,10 +1,14 @@
 from flask import Flask
+from housing.logger import logging
+
 
 app = Flask(__name__)
 
 @app.route("/",methods=['GET','POST'])
 def index():
-    return "Starting Machine learning project"
+    logging.info("we are testing logging module")
+
+    return "CI/CD has been established"
 
 
 

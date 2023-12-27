@@ -10,7 +10,7 @@ DESCRIPTION = "This is my first Machine Learning project"
 PACKAGES = ["housing"]
 REQUIREMENT_FILE_NAME = "requirements.txt"
 
-def get_requirements_list() -> List["str"]:
+def get_requirements_list() -> List[str]:
     """
     This function is going to return all the requirements used in this project
     """
