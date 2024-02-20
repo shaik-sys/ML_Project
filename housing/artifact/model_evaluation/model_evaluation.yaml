@@ -1,0 +1,35 @@
+best_model:
+  model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-02-03_08-30-43\trained_model\model.pkl
+history:
+  2024-01-29-20-27-23:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_19-35-46\trained_model\model.pkl
+  2024-01-29-20-27-48:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29-20-27-23\trained_model\model.pkl
+  2024-01-29-20-30-13:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29-20-27-48\trained_model\model.pkl
+  2024-01-29_09-57-31:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_09-37-41\trained_model\model.pkl
+  2024-01-29_10-18-17:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_09-57-31\trained_model\model.pkl
+  2024-01-29_10-22-15:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_10-18-17\trained_model\model.pkl
+  2024-01-29_10-36-22:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_10-22-15\trained_model\model.pkl
+  2024-01-29_10-38-53:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_10-36-22\trained_model\model.pkl
+  2024-01-29_13-38-16:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_10-38-53\trained_model\model.pkl
+  2024-01-29_13-40-18:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_13-38-16\trained_model\model.pkl
+  2024-01-29_13-43-29:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_13-40-18\trained_model\model.pkl
+  2024-01-29_13-49-46:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_13-43-29\trained_model\model.pkl
+  2024-01-29_13-53-46:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_13-49-46\trained_model\model.pkl
+  2024-01-29_14-06-58:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_13-53-46\trained_model\model.pkl
+  2024-01-29_19-35-46:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29_14-06-58\trained_model\model.pkl
+  2024-02-03_08-30-43:
+    model_path: D:\projects\ML_Project\housing\artifact\model_trainer\2024-01-29-20-30-13\trained_model\model.pkl

@@ -92,3 +92,7 @@ Tos stop docker conatiner
 ```
 docker stop <container_id>
 ```
+Install ipylernal
+```
+pip install ipykernel
+```

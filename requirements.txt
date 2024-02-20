@@ -3,4 +3,8 @@ gunicorn
 scikit-learn
 numpy
 pandas
+pyYAML
 -e .
+evidently
+dill
+matplotlib
